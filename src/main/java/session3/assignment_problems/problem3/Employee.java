@@ -1,4 +1,4 @@
-package session3.assignment_problems;
+package session3.assignment_problems.problem3;
 public class Employee {
     String empId;
     String empName;

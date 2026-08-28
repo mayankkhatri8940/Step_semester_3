@@ -1,4 +1,4 @@
-package session3.class_problems;
+package session3.class_problems.problem5;
 
 public class Student {
     String name;

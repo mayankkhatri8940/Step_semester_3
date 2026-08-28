@@ -1,4 +1,4 @@
-package session3.class_problems;
+package session3.class_problems.problem4;
 
 public class IdCard {
     String name;

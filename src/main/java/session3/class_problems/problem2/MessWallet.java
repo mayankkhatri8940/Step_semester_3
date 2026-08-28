@@ -1,4 +1,4 @@
-package session3.class_problems;
+package session3.class_problems.problem2;
 
 public class MessWallet {
     private double balance;

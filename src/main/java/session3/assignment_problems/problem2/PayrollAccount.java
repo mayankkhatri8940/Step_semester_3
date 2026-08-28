@@ -1,4 +1,4 @@
-package session3.assignment_problems;
+package session3.assignment_problems.problem2;
 public class PayrollAccount {
     private double basicSalary;
     private double bonus;

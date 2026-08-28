@@ -1,4 +1,4 @@
-package session3.class_problems;
+package session3.class_problems.problem1;
 
 public class PlacementRecord {
     String studentName;

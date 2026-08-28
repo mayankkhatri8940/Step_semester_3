@@ -1,4 +1,4 @@
-package session3.assignment_problems;
+package session3.assignment_problems.problem4;
 public class HallTicket {
     String studentName;
     int seatNumber;

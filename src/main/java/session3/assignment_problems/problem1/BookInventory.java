@@ -1,4 +1,4 @@
-package session3.assignment_problems;
+package session3.assignment_problems.problem1;
 public class BookInventory {
     String title;
     String author;
